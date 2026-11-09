@@ -1,0 +1,23 @@
+
+body{
+    background-color: purple;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+#hone{
+    color: burlywood;
+    background-color: #75757d;
+    font-size: 30px;
+
+}
+#htwo{
+    color: #CCA483;
+    background-color: #800020;
+    font-size: 30px;
+}
+.ptag{
+    color: darkblue;
+}
